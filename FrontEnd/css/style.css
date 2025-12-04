@@ -23,10 +23,10 @@ body {
 
 /* Header */
 .header {
-    background: #5842bb;
+    background: #dfd159;
     color: #fff;
     padding: 1rem 0;
-    border-bottom: 2px solid #764ba2;
+    border-bottom: 2px solid #bd6e60;
     position: sticky;
     top: 0;
     z-index: 1000;
@@ -48,7 +48,7 @@ body {
 
 .logo i {
     margin-right: 12px;
-    color: #ffd700;
+    color: #8836b8;
     font-size: 1.8rem;
 }
 
@@ -74,7 +74,7 @@ body {
 }
 
 .search-bar button {
-    background: #ffd700;
+    background: #c57330;
     border: none;
     padding: 12px 25px;
     cursor: pointer;
@@ -85,7 +85,7 @@ body {
 }
 
 .search-bar button:hover {
-    background: #ffed4e;
+    background: #d69239;
     transform: scale(1.05);
 }
 
@@ -180,8 +180,8 @@ body {
 
 /* Navigation */
 .nav {
-    background: #816fd1;
-    border-bottom: 3px solid #5f3dad;
+    background: #e28c64;
+    border-bottom: 3px solid #921f1f;
 }
 
 .nav-list {
@@ -236,7 +236,7 @@ body {
 
 /* Hero Section */
 .hero {
-    background: #667eea;
+    background: #f0b498;
     color: white;
     padding: 100px 0;
     text-align: center;
