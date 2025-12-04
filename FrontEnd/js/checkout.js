@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 // Redirect after 3 seconds
                 setTimeout(() => {
-                    window.location.href = '../index.html';
+                    window.location.href = '../../index.html';
                 }, 3000);
             } else {
                 checkoutMessage.innerHTML = data.erro || 'Erro ao processar pedido';

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let token = localStorage.getItem('token')
     let user = localStorage.getItem('user')
     let currentUser = user ? JSON.parse(user) : null
-    let nomeUser = currentUser ? currentUser.nome : ''
+    let nomeUser = currentUser   ? currentUser.nome : ''
     console.log('nome: ', nomeUser)
     console.log('statusLog', statusLog)
 

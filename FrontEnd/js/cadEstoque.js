@@ -59,7 +59,7 @@ if (statusLog === 'true') {
         })       
     })
 } else {
-    location.href = '../index.html'
+    location.href = '../../index.html'
 }
 
 function gerarTabela(dados) {

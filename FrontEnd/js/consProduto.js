@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
             })
         })
     } else {
-        location.href = '../index.html'
+        location.href = '../../index.html'
     }
 })
 
